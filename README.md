@@ -22,10 +22,11 @@
 ## Preview
 
 ### Lista
-![ListeMovies]
+![ListeMovies](https://user-images.githubusercontent.com/28903617/175860861-687a7e3e-3a7a-4213-bc3d-676d4e58d2d4.png)
 
 ### Detalhes
-![DetailsMovie]
+![DetailsMovie](https://user-images.githubusercontent.com/28903617/175860894-29746d54-ac72-42ce-9ac2-664ccb126ef7.png)
+
 
 ## Tecnologias
 
@@ -66,4 +67,4 @@ $ yarn dev
 ```
 
 # Desenvolvedor
-<p> 👨‍💻 Desenvolvido com muita garra por <a href="https://www.linkedin.com/in/weslley-ferreira-61a75a188/">Weslley Ferreira de Moraes</a></p>
+<p> 👨‍💻 Desenvolvido com muita garra por <a href="https://www.linkedin.com/in/weslleyferreira/">Weslley Ferreira de Moraes</a></p>
